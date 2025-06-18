@@ -245,7 +245,8 @@ After 6 hours of deliberation, the company declared it a settled issue. However,
 
 The following day, a random hacker on the dark web threatened to release damaging information on Present the rapper, if he did not announce his retirement in the next 30 days.
 
-![image.png](attachment:31cd27f8-d4a4-4db0-9545-2730297b9d94:image.png)
+![image](https://github.com/user-attachments/assets/13529d9c-daa0-4bd8-8f98-0040fe1dfd56)
+
 
 Q1: **Enter `darkweb` to continue**
 
@@ -276,7 +277,8 @@ PassiveDns
 
 **Q3: What domain did IP `18.66.52.227` resolve to?**
 
-![image.png](attachment:7e2bbc5a-a018-4380-adb3-e8b5f7c5ad23:image.png)
+![image](https://github.com/user-attachments/assets/70b559b6-4262-449b-8921-d391ab73407d)
+
 
 A3: betterlyrics4u.com
 
@@ -293,7 +295,8 @@ Email
 
 Q4: **Which column in the email table is most likely to contain our domain?**
 
-![image.png](attachment:856caa9b-d81a-4994-a9b1-64268c4529d3:image.png)
+![image](https://github.com/user-attachments/assets/1a594b59-2397-4427-bbc0-8f99f0e8f227)
+
 
 A4: link
 
@@ -308,7 +311,8 @@ Email
 
 Q5: How many results did we get from this query?
 
-![image.png](attachment:9e6cda81-c8f6-4aef-baf8-3d3117fcc217:image.png)
+![image](https://github.com/user-attachments/assets/54113076-37d4-4444-89df-e17f1edeae48)
+
 
 A5: 13
 
@@ -322,7 +326,8 @@ Each of these rows represent an email that was sent to someone at OWL records!
 
 Hint: use the query from the previous question.
 
-![image.png](attachment:24582a0c-78c4-449e-ac5b-fafb0a885335:image.png)
+![image](https://github.com/user-attachments/assets/01152434-e09a-42b6-8555-1108b7341bcb)
+
 
 A6: ghostwritersanonymous@protonmail.com
 
@@ -330,7 +335,8 @@ A6: ghostwritersanonymous@protonmail.com
 
 Q7: **What was the other email address used to send these phishing emails?**
 
-![image.png](attachment:8122996d-174c-43d6-b22b-a88420210152:image.png)
+![image](https://github.com/user-attachments/assets/ea654baf-5fd9-4116-ace4-0bb43ad54dfa)
+
 
 A7: wemakebeatz@gmail.com
 
@@ -348,7 +354,8 @@ Employees
 
 **Q8: Which role was targeted the most of all?**
 
-![image.png](attachment:413ab521-0eeb-4043-848c-57f4bf78d5fe:image.png)
+![image](https://github.com/user-attachments/assets/8d213cc3-8860-4af2-b3c0-47008fd5f719)
+
 
 A8:Rapper
 
@@ -358,7 +365,8 @@ There was one additional role that was targeted.
 
 **Q9: Which role (other than Rapper) was targeted by this phishing campaign?**
 
-![image.png](attachment:5bef783b-b49c-4a12-a933-62a2a094aaef:image.png)
+![image](https://github.com/user-attachments/assets/c7b4730a-ad2f-4b71-86a5-0bfc9bfebfeb)
+
 
 A9: Lead Rapper
 
@@ -366,7 +374,8 @@ A9: Lead Rapper
 
 Q10: **And what is the name of the Lead Rapper?**
 
-![image.png](attachment:daf1fc96-ba18-4d12-8b64-97f21e63fc6a:image.png)
+![image](https://github.com/user-attachments/assets/3b70e9a4-2dfa-4d51-8254-c8cd8b934778)
+
 
 Q10: Dwake Audrey
 
@@ -374,7 +383,8 @@ Q10: Dwake Audrey
 
 Q11: What is Dwake’s IP address?
 
-![image.png](attachment:50474e89-4c49-451b-aeee-d445c8b73a2e:image.png)
+![image](https://github.com/user-attachments/assets/a3430db4-90d8-480e-8dd5-05d766d8af53)
+
 
 A: 10.10.0.5
 
@@ -389,7 +399,8 @@ Email
 
 Q12: **What was the subject of the email sent to Dwake?**
 
-![image.png](attachment:99da0341-62d1-46ee-bd41-bf2dd73c21ac:image.png)
+![image](https://github.com/user-attachments/assets/e46ddee0-f1e2-46d5-85c5-aac22d017278)
+
 
 A12:[EXTERNAL] RE: Need a ghostwriter for your next hit?
 
@@ -399,7 +410,8 @@ It's likely the adversaries want Dwake to click on a link and feed them his cred
 
 Q13: What link did the adversaries include in their phishing email targeting Dwake?
 
-![image.png](attachment:c9466a83-7c75-41ca-a3ba-cecec98f886e:image.png)
+![image](https://github.com/user-attachments/assets/adae0dbf-0f67-4b31-bd93-f57e2d62878a)
+
 
 A13:http://betterlyrics4u.com/share/online/published/enter
 
@@ -409,7 +421,8 @@ On occasion, our email security product will block suspicious email. In those ca
 
 **Q:14: What was the verdict of the email sent to Dwake?**
 
-![image.png](attachment:01be8277-dcdf-4d1b-8abd-6e730ad3b4d3:image.png)
+![image](https://github.com/user-attachments/assets/d3511ac5-9882-4b71-9b52-c7e106151539)
+
 
 A14: CLEAN
 
@@ -441,7 +454,8 @@ OutboundNetworkEvents
 
 **Q16: When did Dwake click on the link in email? (copy and paste the time exactly)**
 
-![image.png](attachment:6e33250d-591a-452e-b31e-5dd34b6dcb3e:image.png)
+![image](https://github.com/user-attachments/assets/1a3f052a-6f4f-45cd-b00f-f023aa4ad447)
+
 
 A16: 2024-04-15T12:03:12.000Z
 
@@ -471,7 +485,8 @@ AuthenticationEvents
 
 Q18: **When did the adversaries attempt to login to Dwake's account?**
 
-![image.png](attachment:5904fa0a-998a-46f0-aff5-ee9b1d99f67d:image.png)
+![image](https://github.com/user-attachments/assets/06ca856a-d6aa-4856-8775-20e4d9cab612)
+
 
 A18: 20
 
@@ -481,7 +496,8 @@ A18: 20
 
 Q19: **What was the result of this authentication attempt?**
 
-![image.png](attachment:44237695-511f-4be1-9a5d-e6dcb7388cb6:image.png)
+![image](https://github.com/user-attachments/assets/2c334925-2bab-4947-b9aa-1ad224584e44)
+
 
 A19: Successful Login
 
@@ -500,7 +516,8 @@ InboundNetworkEvents
 
 Q20: How many results did we get?
 
-![image.png](attachment:0dcf9118-23e8-4b68-b897-4c9700ec6680:image.png)
+![image](https://github.com/user-attachments/assets/c739ed2f-bba7-42ee-b74c-2b53b65ef3c2)
+
 
 A20: 10
 
@@ -512,7 +529,8 @@ And it looks like they got what they wanted at the end.
 
 **Q21: What was the name of the zip file they used to steal information from Dwake's account?**
 
-![image.png](attachment:457444db-7d9d-44b1-b1ec-e648907ebd8d:image.png)
+![image](https://github.com/user-attachments/assets/a6a46599-8c46-4f65-9f38-1b3a63861d06)
+
 
 A21:DwakesDirtySecrets.zip
 
