@@ -70,7 +70,8 @@ Let's take this for a spin. The following query searches for all information abo
 
 Q4: What is the name of the OWL records CEO?
 
-![image.png](attachment:8036d7d9-4aaa-4a62-804d-a799260ad1f4:image.png)
+![image](https://github.com/user-attachments/assets/d77672fa-2bbd-4d55-bd62-7fafdded56bd)
+
 
 A4: Sean Crater
 
@@ -88,11 +89,13 @@ Q5: How many results (rows) did you get back?
 
 Note: You can run multiple queries on the same pane. Just be sure to put a space in between them. For example:
 
-![image.png](attachment:4e188152-f71e-450d-b393-dc6aec45e589:image.png)
+![image](https://github.com/user-attachments/assets/e2c83f97-38c6-4771-99ee-c96fe027fe3f)
+
 
 Then simply click on the query you want to run and make sure the whole thing is highlighted.
 
-![image.png](attachment:3b60bcd6-bdd9-42ca-8f65-b32a1e9a39d1:image.png)
+![image](https://github.com/user-attachments/assets/309d1be5-6922-4a02-a55a-cbcc1cf890a4)
+
 
 A5: 19
 
@@ -106,7 +109,8 @@ Here we want you to read carefully through the logs to see what the bad guys wer
 
 **Q6: What piece of information were they looking to get for Dwake? (two words - might be used for communication)**
 
-![image.png](attachment:99b307ce-4806-4200-87c0-840da30bfb17:image.png)
+![image](https://github.com/user-attachments/assets/c63120d9-fabf-4b51-a699-6759ecbe33a8)
+
 
 A6: email address
 
@@ -118,7 +122,8 @@ The operator here also expressed their strong opinions about Dwake's music.
 
 **Q7: The operator is wondering why Dwake's music is so _**
 
-![image.png](attachment:535e6dc4-3544-4efc-990e-07f747391ad1:image.png)
+![image](https://github.com/user-attachments/assets/144704f0-03f7-4063-a58b-4cba539a5990)
+
 
 A7: trassshhhh or trash
 
@@ -128,7 +133,8 @@ Let's continue to look at these logs. At some point the operator discovered Dwak
 
 **Q8: What is Dwake's email address? -** You can look at the results from the previous query to find it!
 
-![image.png](attachment:e73de2da-6a82-4316-bc6b-e9f771de2b18:image.png)
+![image](https://github.com/user-attachments/assets/07a3b94a-9acc-4787-a8ba-edb7bfedd227)
+
 
 A8: dwake_audrey@owl-records.com
 
@@ -214,7 +220,8 @@ InboundNetworkEvents
 
 Q12: Copy and paste the full URL that shows the operator resetting the password to Dwake’s account.
 
-![image.png](attachment:32f02185-e178-4bab-84ed-4a3b8a407ef1:image.png)
+![image](https://github.com/user-attachments/assets/e632e341-7f5b-485d-bcde-2239613cc1c5)
+
 
 A12: [https://owl-records.com/account/security-questions?question_1=mother's+maiden+name&answer_1=Washington&question_2=first+pet's+name&answer_2=Fluffy](https://owl-records.com/account/security-questions?question_1=mother%27s+maiden+name&answer_1=Washington&question_2=first+pet%27s+name&answer_2=Fluffy)
 
